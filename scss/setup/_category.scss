@@ -1,0 +1,26 @@
+.category__box {
+    background-color: #FAFAFA;
+}
+.category__top {
+    display:  flex; 
+    justify-content: space-between;
+    padding-top: 80px;
+    padding-bottom: 30px;
+}
+.category__title {
+    font-size: 25px;
+}
+.category__list {
+    display: flex;
+    justify-content: space-between;
+    gap: 32px;
+}
+.category__item {
+    display: flex;
+    background-color: #EDEDED;
+    border-radius: 15px;
+    width: 160px;
+    height: 130px;
+    justify-content: center;
+    align-items: center;
+}
